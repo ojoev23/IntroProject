@@ -1,2 +1,4 @@
-This is my new git Folder called IntroProject
+Version control is organizing all the versions of a project and making new
+versions every time you make a change.
+
 
