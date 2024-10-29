@@ -11,5 +11,3 @@ Instructions on how to set up the project on your computer.
 1. Clone the repository:
    git clone git@github.com:ojoev23/IntroProject.git
 
-
-
